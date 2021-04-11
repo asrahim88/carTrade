@@ -1,0 +1,49 @@
+.searchBox{
+    margin-top: 30px;
+}
+.example input[type=text] {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    border: none;
+    font-size: 17px;
+}
+
+.searchBox form {
+    margin: auto;
+    max-width: 300px;
+}
+
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 67%;
+    background: #f1f1f1;
+}
+
+form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #03084E;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+    margin-top: 8px;
+    margin-left: -17px;
+}
+
+form.example button:hover {
+    background: #63b847;
+}
+
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}

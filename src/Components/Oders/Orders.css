@@ -1,0 +1,35 @@
+li{
+    list-style: none;
+}
+.oderContainer h1 , p, h4 {
+    color: #03084E;
+}
+.productInformation{
+    float: right;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px 5px gray;
+}
+.oderPhoto{
+    width: 400px;
+    height: 250px !important;
+    padding: 20px;
+    border-radius: 5px;
+}
+.oderPhoto img{
+    width: 100%;
+    height: 100% !important;
+    margin-top: 15px !important;
+    
+}
+.textAlign{
+    text-align: center;
+
+}
+.oderContainer{
+    height: 625px;
+}
+.manageProductText{
+    color: white;
+}

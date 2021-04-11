@@ -1,0 +1,66 @@
+.carBrand{
+    float: left;
+    
+}
+.carName{
+    float: left;
+}
+.carPrice{
+    float: left;
+}
+.carDescription{
+    display: flex;
+    margin-top: -80px;
+}
+
+.car{
+    padding: 20px;
+    margin: 40px 40px 0 40px;
+    
+}
+.textStyle{
+    text-align: center;
+    border-bottom: 1px solid gray;
+    margin-bottom: 70px !important;
+    font-size: 30px;
+    /* text-align: center;
+    
+    font-weight: 400; */
+}
+.checkOutPage{
+    margin-top: 180px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #03084E;
+    box-shadow: 5px 5px 10px gray;
+    color: beige;
+    padding-bottom: 50px !important;
+}
+.carImage{
+    margin-top: 205px;
+    margin-left: -17px !important; 
+    width: 400px;
+    height: 260px;
+}
+.carImage img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+.checkBtn{
+    margin-left: 1070px !important;
+    margin-bottom: 20px !important;
+}
+.parents{
+    padding: 10px !important;
+    margin-top: 150px !important;
+    /* background-color: rgba(127, 214, 255, 0.089); */
+    background-color: white;
+    border-radius: 5px;
+}
+.container{
+    height: 496px;
+}
+.checkOutChild{
+    margin-top: -150px !important;
+}

@@ -1,0 +1,70 @@
+.addProductText{
+    color: white;
+}
+.manageBrandName{
+    margin-left: 140px;
+    float: left;
+    width:100px;
+}
+.productName{
+    float: left;
+    width:150px;
+}
+.manageProductPrice{
+    margin-left: 100px;
+    float: left;
+    width:100px;
+    text-align: center;
+}
+.manageAction{
+    margin-left: 165px;
+    float: left;
+    width:40px;
+    text-align: right;
+    cursor: pointer;
+}
+.manageDescriptionNames{
+    padding: 20px;
+    margin: 10px;
+}
+.proName{
+    margin-left: 10px;
+}
+.prodBrand{
+    margin-left: 180px;
+}
+.proPrice{
+    margin-left: 180px;
+}
+.proAction{
+    margin-left: 180px;
+}
+.deleteBtnDiv{
+    background-color: #FF444A;
+    width: 25px;
+    color:  white;
+    border-radius: 5px;
+}
+.deleteBtn{
+    margin-top: 5px;
+}
+.manageCarDiv{
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    color: #03084E;
+    height : 50px;
+}
+.manageCarDiv h2 {
+    padding-top: 5px;
+}
+.managerDiv{
+    height: 650px;
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #262a5a70;
+    border-radius: 15px;
+}
+.manage-container{
+    background-color: rgba(23, 14, 73, 0.055);
+}

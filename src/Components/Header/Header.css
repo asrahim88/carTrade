@@ -1,0 +1,46 @@
+.logo {
+    width: 300px;
+    margin-top: 10px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    float:right;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #3C3C3C !important;
+    cursor: pointer;
+}
+
+.loginBtn {
+    
+    background-color: #03084E;
+    margin-top: 10px !important;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

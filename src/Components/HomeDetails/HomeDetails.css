@@ -1,0 +1,34 @@
+.productPhoto {
+    width: 250px;
+}
+
+.productPhoto img {
+    width: 100%;
+}
+
+.productDescription {
+    margin-bottom: 40px;
+}
+
+.price {
+    float: left;
+    color: #03084E;
+    font-size: 20px;
+}
+
+.byeBtn {
+    float: right;
+
+}
+
+.byeBtn Button {
+    background-color: #03084E !important;
+    color: #fff !important;
+}
+.productName{
+    margin-bottom: 20px;
+    color: #000000
+}
+.byeNowBtnLink{
+    text-decoration: none
+}

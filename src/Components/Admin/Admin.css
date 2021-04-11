@@ -1,0 +1,88 @@
+.grid{
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.productHeadLine{
+    padding: 20px;
+}
+.grid img{
+    width:100%;
+}
+.gridManage{
+    float: left;
+    margin-left: 10px;
+}
+.parent{
+    overflow: hidden;
+}
+.product-manager{
+    background-color: #0e1030e8;
+    color: white;
+    width: 300px;
+}
+.addProduct{
+    background-color: white;
+    height: 60px;
+    text-align: center;
+    border-radius: 5px;
+}
+.addProduct h1 {
+    padding-top: 5px;
+    color: #03084E;
+}
+.allDivCenter{
+    height: 600px;
+}
+
+.addedDiv{
+    background-color: rgba(23, 14, 73, 0.055);
+    height: 648px;
+}
+
+.adminForm{
+    width: 690px;
+    height: 200px;
+    background-color: white;
+    margin-left: 80px;
+    margin-top: 30px;
+    padding: 0 30px;
+    border-radius: 20px;
+}
+.input {
+    outline: none;
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+}
+.fst-part{
+    float: left;
+}
+.second-part{
+    float: left;
+    margin-left: 50px;
+}
+.add{
+    margin-top: 20px;
+}
+.inputBtn{
+    margin-top: 15px;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 750px;
+    outline: none;
+    cursor: pointer;
+    background-color: #03084E;
+    color: white;
+}
+.manageProductText{
+    color: white !important;
+}
+.addingContainer{
+    padding: 10px;
+    background-color: #262a5a70;
+    border-radius: 15px;
+}
